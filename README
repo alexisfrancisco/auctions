@@ -1,0 +1,9 @@
+Regular user
+testuser:userpass
+testuser2:userpass
+
+Admin
+admin:adminpass
+
+Customer Rep
+crep:creppass
